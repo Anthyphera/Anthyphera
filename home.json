@@ -1,0 +1,130 @@
+{
+  "hero": {
+    "eyebrow": "Privately funded • Global • Method-led",
+    "title": "Anthyphera",
+    "subtitle": "Reduce complexity. Back what holds.",
+    "body": "Anthyphera is a trading and investment firm. We study complex systems, test what stays stable across change, and put capital behind it.",
+    "actions": [
+      {
+        "label": "See the Method",
+        "href": "#method",
+        "variant": "primary"
+      },
+      {
+        "label": "View Domains",
+        "href": "#domains",
+        "variant": "secondary"
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "Method",
+    "title": "One process. Many fields.",
+    "intro": "We remove noise, test persistence, and act only when the structure is clear.",
+    "steps": [
+      {
+        "title": "Reduce",
+        "body": "Break complex systems down until the governing relationships can be seen."
+      },
+      {
+        "title": "Test",
+        "body": "Keep only what remains stable across time, geography, and regime."
+      },
+      {
+        "title": "Deploy",
+        "body": "Commit capital only when the evidence is clear and risk is defined."
+      }
+    ]
+  },
+  "revenue": {
+    "eyebrow": "Revenue",
+    "title": "How revenue is made",
+    "intro": "Trading and capital allocation come first. Research exists to sharpen both.",
+    "pillars": [
+      {
+        "title": "Trading",
+        "body": "We take positions when structure, pricing, and movement align."
+      },
+      {
+        "title": "Investing",
+        "body": "We allocate capital to long-horizon opportunities shaped by durable constraints."
+      },
+      {
+        "title": "Advisory",
+        "body": "We work selectively where our method has direct commercial use."
+      }
+    ]
+  },
+  "domains": {
+    "eyebrow": "Domains",
+    "title": "Where the work applies",
+    "intro": "The method stays constant even as the field changes.",
+    "items": [
+      {
+        "title": "Commodities",
+        "body": "Supply, transport, inventory, and pricing."
+      },
+      {
+        "title": "Science",
+        "body": "Causality, measurement, and reproducible structure."
+      },
+      {
+        "title": "Philosophy",
+        "body": "Clear premises, valid reasoning, and durable frameworks."
+      },
+      {
+        "title": "Infrastructure",
+        "body": "Systems shaped by physical and institutional constraint."
+      },
+      {
+        "title": "Frontier Fields",
+        "body": "New domains where noise is high and structure is still forming."
+      }
+    ]
+  },
+  "nameMeaning": {
+    "eyebrow": "Name",
+    "title": "Why Anthyphera",
+    "body": "The name comes from repeated reduction: remove what is extraneous until the governing ratio appears. That same logic shapes how we study systems, build conviction, and commit capital."
+  },
+  "principles": {
+    "eyebrow": "Principles",
+    "title": "What keeps the work honest",
+    "intro": "The firm is defined by operating discipline, not broad claims.",
+    "items": [
+      {
+        "title": "Empirical",
+        "body": "Claims must be grounded in evidence."
+      },
+      {
+        "title": "Stable",
+        "body": "Relationships must hold across change."
+      },
+      {
+        "title": "Simple",
+        "body": "Complexity is penalized unless it earns its place."
+      },
+      {
+        "title": "Defined",
+        "body": "Failure conditions are stated before capital is deployed."
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Anthyphera",
+    "title": "Built to compound",
+    "body": "Returns deepen research. Research improves judgment. The cycle tightens over time.",
+    "actions": [
+      {
+        "label": "Get in Touch",
+        "href": "#",
+        "variant": "primary"
+      },
+      {
+        "label": "Read More",
+        "href": "#nameMeaning",
+        "variant": "secondary"
+      }
+    ]
+  }
+}
