@@ -20,7 +20,7 @@
   "method": {
     "eyebrow": "Method",
     "title": "One process. Many fields.",
-    "intro": "We remove noise, test persistence, and act only when the structure is clear.",
+    "intro": "We remove complexity, test persistence, and act only when the structure is clear.",
     "steps": [
       {
         "title": "Reduce",
@@ -78,7 +78,7 @@
       },
       {
         "title": "Frontier Fields",
-        "body": "New domains where noise is high and structure is still forming."
+        "body": "New domains where complexity is high and structure is still forming."
       }
     ]
   },
@@ -90,7 +90,7 @@
   "principles": {
     "eyebrow": "Principles",
     "title": "What keeps the work honest",
-    "intro": "The firm is defined by operating discipline, not broad claims.",
+    "intro": "The firm is defined by operating discipline.",
     "items": [
       {
         "title": "Empirical",
