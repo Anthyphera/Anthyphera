@@ -147,7 +147,7 @@ function renderHomePageError() {
   setText("heroSubtitle", "Content unavailable");
   setText(
     "heroBody",
-    "The page content could not be loaded. Please try again later."
+    "Anthyphera content could not be loaded. Please try again later."
   );
 
   clearContainer("heroActions");
