@@ -1,13 +1,13 @@
 {
   "hero": {
-    "eyebrow": "Commodity Markets • Capital Stewardship",
+    "eyebrow": "Privately Held • Proprietary Capital",
     "title": "Velesari Holdings",
-    "subtitle": "Private investment holding company focused on commodity-linked systems and long-term value creation.",
-    "body": "We allocate capital across commodity markets and adjacent infrastructure where structural constraints, disciplined risk management, and execution quality can produce durable outcomes.",
-    "inBrief": "In brief: Velesari Holdings LLC | United States | Commodity-focused investment and operating partnerships.",
+    "subtitle": "Private trading house focused on Energy and Agriculture.",
+    "body": "Velesari Holdings allocates proprietary capital across commodity-linked markets where market structure, logistics constraints, and disciplined underwriting can support repeatable risk-adjusted outcomes.",
+    "inBrief": "Private capital mandate: Energy systems and agricultural supply chains first, with selective exposure to metals, logistics, infrastructure, and operating partnerships.",
     "actions": [
       {
-        "label": "View Capabilities",
+        "label": "Review Market Focus",
         "href": "#domains",
         "variant": "primary"
       },
@@ -19,129 +19,134 @@
     ]
   },
   "domains": {
-    "eyebrow": "Capabilities",
-    "title": "What we cover",
-    "intro": "We evaluate and deploy capital across commodity value chains where market structure, supply constraints, and logistics dynamics are observable and testable.",
+    "eyebrow": "Market Focus",
+    "title": "Commodity-linked focus with primary concentration in Energy and Agriculture",
+    "intro": "The firm prioritizes markets where supply-demand balance, transport capacity, storage optionality, and counterparty reliability can be evaluated with operational rigor.",
     "items": [
       {
         "title": "Energy",
-        "body": "Exposure across physical and financial energy markets with emphasis on structure, liquidity, and supply-chain constraints."
-      },
-      {
-        "title": "Metals",
-        "body": "Industrial and precious metals opportunities shaped by policy, inventories, cost curves, and industrial demand."
+        "body": "Primary focus across physical and financial energy systems where basis, inventory, transport, and policy regimes define opportunity sets.",
+        "tier": "primary"
       },
       {
         "title": "Agriculture",
-        "body": "Commodity and logistics dynamics across food and feed chains, including weather and transport-linked risk factors."
+        "body": "Primary focus across agricultural supply chains influenced by weather, land-use dynamics, processing capacity, and freight constraints.",
+        "tier": "primary"
+      },
+      {
+        "title": "Metals",
+        "body": "Selective exposure to metals where inventory behavior, cost curves, and industrial demand provide clear market structure signals.",
+        "tier": "secondary"
       },
       {
         "title": "Logistics",
-        "body": "Transport and storage bottlenecks where operational optionality and timing materially impact pricing."
+        "body": "Selective exposure to storage and transport bottlenecks that directly shape realized commodity pricing and timing.",
+        "tier": "secondary"
       },
       {
         "title": "Infrastructure",
-        "body": "Assets and partnerships that support long-term commodity movement and processing resilience."
+        "body": "Selective exposure to infrastructure and operating partnerships tied to durable commodity throughput and system resilience.",
+        "tier": "secondary"
       }
     ]
   },
   "revenue": {
-    "eyebrow": "Operating model",
-    "title": "How value is built",
-    "intro": "Our model combines market execution, strategic ownership, and selective partnerships with strict downside framing.",
+    "eyebrow": "Operating Model",
+    "title": "Multiple execution channels under a single risk standard",
+    "intro": "Capital is deployed through complementary channels that align market execution with long-horizon ownership and operating alignment.",
     "pillars": [
       {
         "title": "Market Execution",
-        "body": "Positioning in commodity markets when pricing dislocations and structural asymmetry are identifiable."
+        "body": "Targeted physical and financial exposure when dislocations are supported by observable structural drivers."
       },
       {
         "title": "Strategic Ownership",
-        "body": "Long-horizon ownership in assets and vehicles tied to durable commodity demand and constrained supply."
+        "body": "Long-duration ownership where commodity-linked cash flow durability and downside definition are clear."
       },
       {
         "title": "Operating Partnerships",
-        "body": "Partnerships with domain specialists where aligned incentives and execution capacity improve long-term outcomes."
+        "body": "Selective partnerships with operators where incentives, controls, and execution quality are verifiable."
       }
     ]
   },
   "method": {
-    "eyebrow": "Risk framework",
-    "title": "How capital decisions are made",
-    "intro": "Every deployment follows a repeatable process: isolate drivers, test assumptions, define downside, and commit capital only when risk-adjusted return potential is clear.",
+    "eyebrow": "Risk and Governance",
+    "title": "Discipline before deployment",
+    "intro": "Every position and partnership follows a defined sequence: structure analysis, downside framing, counterparty review, and continuous portfolio supervision.",
     "steps": [
       {
-        "title": "Isolate drivers",
-        "body": "Reduce complexity to governing variables that explain price behavior and regime sensitivity."
+        "title": "Downside Definition",
+        "body": "Invalidation levels, scenario paths, and capital-at-risk thresholds are established before execution."
       },
       {
-        "title": "Validate",
-        "body": "Test relationships across cycles, geographies, and policy environments before allocating capital."
+        "title": "Counterparty Discipline",
+        "body": "Commercial terms, documentation standards, and operational reliability are reviewed before commitment."
       },
       {
-        "title": "Execute with limits",
-        "body": "Deploy only with predefined risk parameters, clear invalidation levels, and monitoring discipline."
+        "title": "Scenario Analysis",
+        "body": "Supply, demand, logistics, and policy assumptions are stress-tested across alternate market states."
       }
     ]
   },
   "nameMeaning": {
-    "eyebrow": "Leadership",
-    "title": "Managing Director",
-    "body": "Tai Velesari serves as Managing Director and oversees strategy, risk governance, and long-term capital allocation for Velesari Holdings."
+    "eyebrow": "Private Capital Mandate",
+    "title": "Privately funded. Privately held. Long-horizon.",
+    "body": "Velesari Holdings is not a public fund platform. Capital is proprietary, governance is internal, and deployment decisions are made with long-duration stewardship rather than external fundraising cycles."
   },
   "principles": {
-    "eyebrow": "Governance",
-    "title": "Operating standards",
-    "intro": "The firm is managed with explicit decision rights, documented assumptions, and review discipline.",
+    "eyebrow": "Governance Standards",
+    "title": "Operating principles that govern capital decisions",
+    "intro": "Process discipline is treated as a strategic asset. The firm relies on explicit controls rather than narrative conviction.",
     "items": [
       {
-        "title": "Evidence-based",
-        "body": "Investment decisions are based on observable market data and documented structural assumptions."
+        "title": "Market Structure First",
+        "body": "Decisions prioritize observable market mechanics over thematic narratives."
       },
       {
-        "title": "Risk-first",
-        "body": "Downside scenarios and control thresholds are defined before capital is deployed."
+        "title": "Risk Governance",
+        "body": "Sizing, monitoring, and review cadence are defined before capital is deployed."
       },
       {
-        "title": "Counterparty discipline",
-        "body": "We prioritize counterparties and partners with clear alignment, operational reliability, and verifiable standards."
+        "title": "Portfolio Review",
+        "body": "Exposure is reviewed against assumptions, with adjustments based on evidence rather than bias."
       },
       {
-        "title": "Long-duration thinking",
-        "body": "We optimize for durable performance rather than short-lived narratives or cyclical noise."
+        "title": "Counterparty Reliability",
+        "body": "Partnerships are pursued selectively with emphasis on compliance posture and execution integrity."
       }
     ]
   },
   "proof": {
-    "eyebrow": "Institutional resources",
-    "title": "Updates and disclosures",
-    "intro": "Key firm information for partners, counterparties, and advisors.",
+    "eyebrow": "Firm Information",
+    "title": "Governance, legal materials, and contact pathways",
+    "intro": "Core firm information for counterparties, advisors, and prospective operating partners.",
     "items": [
       {
-        "title": "Firm updates",
-        "body": "Current updates and commentary are published through the primary domain at velesari.trade."
+        "title": "Governance and disclosures",
+        "body": "Review disclosure statements, privacy notice, and terms governing use of firm materials."
       },
       {
-        "title": "Legal and privacy",
-        "body": "Terms, privacy notices, and disclosure materials are available in the Legal section."
+        "title": "Strategy and markets",
+        "body": "See strategy process and market focus documentation before initiating commercial outreach."
       },
       {
-        "title": "Business inquiries",
-        "body": "Commercial, partnership, and compliance inquiries are routed through the dedicated contact page."
+        "title": "Formal correspondence",
+        "body": "Use dedicated channels for partnership, compliance, and registered office communication."
       }
     ]
   },
   "cta": {
-    "eyebrow": "Velesari Holdings",
-    "title": "Institutional contact",
-    "body": "For partnerships, diligence requests, and formal correspondence, contact the appropriate function at Velesari Holdings.",
+    "eyebrow": "Contact",
+    "title": "Institutional inquiry channels",
+    "body": "For commercial dialogue, partnership diligence, legal notices, or registered office correspondence, contact the relevant function directly.",
     "actions": [
       {
-        "label": "Contact pathways",
+        "label": "Contact Pathways",
         "href": "./contact.html",
         "variant": "primary"
       },
       {
-        "label": "Legal disclosures",
+        "label": "Governance Disclosures",
         "href": "./disclosures.html",
         "variant": "secondary"
       }
