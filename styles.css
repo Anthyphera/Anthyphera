@@ -15,8 +15,8 @@
   --brand-0: #b68c47;
   --brand-1: #e5cca0;
   --brand-2: #f8e9c6;
-  --shadow-0: 0 12px 28px rgba(0, 0, 0, 0.28);
-  --shadow-1: 0 20px 44px rgba(0, 0, 0, 0.34);
+  --shadow-0: 0 10px 22px rgba(0, 0, 0, 0.24);
+  --shadow-1: 0 16px 34px rgba(0, 0, 0, 0.3);
   --radius-0: 12px;
   --radius-1: 18px;
   --radius-2: 24px;
@@ -239,7 +239,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   border-top: 1px solid var(--line-0);
   background: linear-gradient(180deg, rgba(10, 37, 27, 0.4), rgba(10, 37, 27, 0));
 }
-.site-footer .brand-mark { width: 52px; height: 52px; }
+.site-footer .brand-mark { width: 48px; height: 48px; }
 .footer-top { display: flex; justify-content: space-between; gap: var(--space-12); padding-bottom: var(--space-8); }
 .footer-brand { display: grid; gap: var(--space-4); max-width: 460px; }
 .footer-tagline { color: var(--text-2); font-size: var(--text-sm); }

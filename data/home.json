@@ -2,9 +2,9 @@
   "hero": {
     "eyebrow": "Privately Held • Proprietary Capital",
     "title": "Velesari Holdings",
-    "subtitle": "Private trading house focused on Energy and Agriculture.",
-    "body": "Velesari Holdings allocates proprietary capital across commodity-linked markets where market structure, logistics constraints, and disciplined underwriting can support repeatable risk-adjusted outcomes.",
-    "inBrief": "Private capital mandate: Energy systems and agricultural supply chains first, with selective exposure to metals, logistics, infrastructure, and operating partnerships.",
+    "subtitle": "Privately funded and privately held trading house focused on Energy and Agriculture.",
+    "body": "Velesari Holdings allocates proprietary capital across commodity-linked markets where market structure, logistics constraints, and disciplined underwriting support defensible risk-adjusted outcomes.",
+    "inBrief": "Private capital mandate: Energy systems and agricultural supply chains first, with secondary exposure to metals, logistics, infrastructure, and operating partnerships.",
     "actions": [
       {
         "label": "Review Market Focus",
@@ -91,7 +91,7 @@
   "nameMeaning": {
     "eyebrow": "Private Capital Mandate",
     "title": "Privately funded. Privately held. Long-horizon.",
-    "body": "Velesari Holdings is not a public fund platform. Capital is proprietary, governance is internal, and deployment decisions are made with long-duration stewardship rather than external fundraising cycles."
+    "body": "Capital is proprietary, governance is internal, and deployment decisions follow long-horizon stewardship rather than external fundraising cycles."
   },
   "principles": {
     "eyebrow": "Governance Standards",

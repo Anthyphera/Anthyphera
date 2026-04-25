@@ -15,14 +15,15 @@ async function loadHomePage() {
 }
 
 function renderHomePage(data) {
-  renderHero(data.hero);
-  renderDomains(data.domains);
-  renderRevenue(data.revenue);
-  renderMethod(data.method);
-  renderPrinciples(data.principles);
-  renderNameMeaning(data.nameMeaning);
-  renderProof(data.proof);
-  renderCta(data.cta);
+  const payload = data ?? {};
+  renderHero(payload.hero ?? {});
+  renderDomains(payload.domains ?? {});
+  renderRevenue(payload.revenue ?? {});
+  renderMethod(payload.method ?? {});
+  renderPrinciples(payload.principles ?? {});
+  renderNameMeaning(payload.nameMeaning ?? {});
+  renderProof(payload.proof ?? {});
+  renderCta(payload.cta ?? {});
 }
 
 function renderHero(hero) {
