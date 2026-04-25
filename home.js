@@ -90,7 +90,7 @@ function renderCards(containerId, items) {
 
   items.forEach((item) => {
     const article = document.createElement("article");
-    article.className = "card";
+    article.className = getCardClassName(item);
     article.setAttribute("role", "listitem");
 
     const title = document.createElement("h3");
@@ -107,6 +107,15 @@ function renderCards(containerId, items) {
   });
 
   container.replaceChildren(fragment);
+}
+
+
+function getCardClassName(item) {
+  if (item?.tier === "primary") {
+    return "card card-featured";
+  }
+
+  return "card";
 }
 
 function renderActions(containerId, actions) {
