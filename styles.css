@@ -110,6 +110,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 }
 .hero-subtitle { color: var(--text-1); max-width: 32ch; font-size: var(--text-xl); }
 .hero-body { color: var(--text-2); max-width: 66ch; }
+.hero-brief { color: var(--text-3); max-width: 58ch; font-size: var(--text-sm); }
 .hero-actions { display: flex; flex-wrap: wrap; gap: var(--space-4); margin-top: var(--space-3); }
 
 .visual-image {
@@ -147,6 +148,7 @@ ul { margin: 0; padding: 0; list-style: none; }
   padding: var(--space-6);
 }
 .card { display: grid; gap: var(--space-3); }
+.card-featured { border-color: var(--line-1); background: rgba(19, 55, 40, 0.96); }
 .card-title { font-size: 1.03rem; line-height: 1.35; }
 .card-body { color: var(--text-2); font-size: var(--text-sm); max-width: 62ch; }
 .list-tight { display: grid; gap: var(--space-4); }
@@ -234,6 +236,8 @@ ul { margin: 0; padding: 0; list-style: none; }
 .prose p, .prose li { color: var(--text-2); max-width: 72ch; }
 .section-muted { background: rgba(255, 255, 255, 0.01); border-top: 1px solid var(--line-0); border-bottom: 1px solid var(--line-0); }
 .page-legal .section-muted { background: rgba(255, 255, 255, 0.004); }
+.statement-panel,
+.cta-panel { display: grid; gap: var(--space-4); }
 
 @media (max-width: 980px) {
   :root { --header-height: 92px; }
@@ -261,16 +265,28 @@ ul { margin: 0; padding: 0; list-style: none; }
   .site-nav-list { flex-direction: column; }
   .site-nav a { min-height: 44px; justify-content: flex-start; }
   .footer-top { flex-direction: column; gap: var(--space-8); }
+  .visual-image-large { min-height: 340px; }
+  .visual-image-wide { min-height: 260px; }
 }
 
 @media (max-width: 640px) {
   :root { --header-height: 82px; }
   .section { padding: var(--space-12) var(--space-4); }
+  .hero { padding-top: var(--space-10); }
+  .page-banner { padding-top: var(--space-10); }
   .brand-wording { display: none; }
   .brand-mark { width: 52px; height: 52px; }
   .hero-actions { flex-direction: column; }
   .button { width: 100%; }
   .card, .statement-panel, .cta-panel { padding: var(--space-5); }
+  .visual-image-large,
+  .visual-image-wide,
+  .visual-image-sector,
+  .visual-image-document {
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+  .footer-nav { grid-template-columns: 1fr; }
 }
 
 @media (prefers-reduced-motion: reduce) {
